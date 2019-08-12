@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.gmail.val59000mc</groupId>
+    <artifactId>UhcCore</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+
+    <properties>
+        <uhcCoreVersion>1.13.9</uhcCoreVersion>
+        <worldedit6SupportVersion>1.0</worldedit6SupportVersion>
+    </properties>
+
+    <modules>
+        <module>Common</module>
+        <module>Support-WorldEdit-6</module>
+    </modules>
+
+</project>
